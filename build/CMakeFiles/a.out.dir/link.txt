@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/a.out.dir/src/main.c.o CMakeFiles/a.out.dir/src/fileinfo.c.o CMakeFiles/a.out.dir/src/permissions.c.o CMakeFiles/a.out.dir/src/sorting.c.o CMakeFiles/a.out.dir/src/utils.c.o -o a.out

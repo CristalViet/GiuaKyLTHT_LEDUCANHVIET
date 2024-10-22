@@ -1,0 +1,3 @@
+/media/leducanhviet/New Volume/Project/apue-code/giuaky/build/CMakeFiles/a.out.dir
+/media/leducanhviet/New Volume/Project/apue-code/giuaky/build/CMakeFiles/edit_cache.dir
+/media/leducanhviet/New Volume/Project/apue-code/giuaky/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lsprogram.dir/src/main.c.o CMakeFiles/lsprogram.dir/src/fileinfo.c.o CMakeFiles/lsprogram.dir/src/permissions.c.o CMakeFiles/lsprogram.dir/src/sorting.c.o CMakeFiles/lsprogram.dir/src/utils.c.o -o lsprogram
